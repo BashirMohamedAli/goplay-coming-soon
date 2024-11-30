@@ -5,7 +5,7 @@ export default function UnderDevelopment() {
     <div className="min-h-screen bg-[#0D4049] flex flex-col items-center justify-center p-4 text-white font-poppins">
       <div className="w-full max-w-md space-y-12 text-center">
         <div className="space-y-4">
-          <h1 className="text-5xl font-bold text-[#15E599]">We're Coming Soon</h1>
+          <h1 className="text-5xl font-bold text-[#15E599]">We&apos;re Coming Soon</h1>
           <p className="text-xl text-[#F8C200]">Our website is under construction</p>
         </div>
 
@@ -24,7 +24,7 @@ export default function UnderDevelopment() {
         </div>
 
         <p className="text-sm text-[#15E599] max-w-sm mx-auto">
-          We're working hard to bring you an amazing experience. 
+          We&apos;re working hard to bring you an amazing experience. 
           Thank you for your patience!
         </p>
       </div>
